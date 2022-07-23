@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "903e42067724fedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f4642127cf3a5f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0583350d8e0a430",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b367b372418bf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1024fb971315e1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "900a7193ed77c2fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db6f73ca6087208d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "right": {
+    "id": "84155ec4a9591879",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b66e89e4096b32c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c82684f3e1c626eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c1c09fc35ce8056",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4602e61a7f240fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ef18c9973373f04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15f4642127cf3a5f",
+  "lastOpenFiles": [
+    "2022-07-24.md",
+    "org/springframework/boot/SpringApplication.md",
+    "org/springframework/boot/SpringApplication/listeners.starting.md",
+    "org/springframework/boot/SpringApplication/设置监听器.md",
+    "获取运行监听器.md",
+    "org/springframework/boot/SpringApplication/获取运行监听器.md",
+    "org/springframework/core/io/support/SpringFactoriesLoader.md",
+    "org/springframework/boot/context/event/EventPublishingRunListener.md",
+    "DemoApplication.md",
+    "org/springframework/boot/WebApplicationType.md"
+  ]
+}
